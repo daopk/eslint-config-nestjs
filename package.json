@@ -1,16 +1,16 @@
 {
   "name": "eslint-config-nestjs",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Nestjs's ESLint config preset",
   "main": "index.js",
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@typescript-eslint/eslint-plugin": "5.36.2",
-    "@typescript-eslint/parser": "5.36.2",
-    "eslint": "^8.19.0",
+    "@typescript-eslint/eslint-plugin": "5.46.1",
+    "@typescript-eslint/parser": "5.46.1",
+    "eslint": "^8.30.0",
     "eslint-config-prettier": "^8.5.0",
     "eslint-plugin-prettier": "^4.2.1",
-    "prettier": "^2.7.1"
+    "prettier": "^2.8.1"
   }
 }
