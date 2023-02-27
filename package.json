@@ -1,10 +1,14 @@
 {
   "name": "eslint-config-nestjs",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "description": "Nestjs's ESLint config preset",
   "main": "index.js",
   "author": "",
   "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/daopk/eslint-config-nestjs.git"
+  },
   "dependencies": {
     "@typescript-eslint/eslint-plugin": "5.51.0",
     "@typescript-eslint/parser": "5.51.0",
