@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-nestjs",
-  "version": "0.3.1",
+  "version": "0.3.2",
   "description": "Nestjs's ESLint config preset",
   "main": "index.js",
   "author": "",
@@ -12,10 +12,10 @@
   "dependencies": {
     "@typescript-eslint/eslint-plugin": "5.51.0",
     "@typescript-eslint/parser": "5.53.0",
-    "eslint": "^8.33.0",
-    "eslint-config-prettier": "^8.6.0",
+    "eslint": "^8.37.0",
+    "eslint-config-prettier": "^8.8.0",
     "eslint-plugin-prettier": "^4.2.1",
-    "prettier": "^2.8.4"
+    "prettier": "^2.8.7"
   },
   "devDependencies": {
     "typescript": "^4.9.5"
