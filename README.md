@@ -40,13 +40,12 @@ Since `eslint-config-nestjs` includes all of the necessary ESLint plugins and ru
 To remove the direct dependencies, you can run the following command in your terminal:
 
 ```bash
-npm uninstall @typescript-eslint/eslint-plugin @typescript-eslint/parser eslint eslint-config-prettier eslint-plugin-prettier prettier
+npm uninstall @typescript-eslint/eslint-plugin @typescript-eslint/parser eslint-config-prettier eslint-plugin-prettier prettier
 ```
 This will remove the following packages from your project:
 
 - `@typescript-eslint/eslint-plugin`
 - `@typescript-eslint/parser`
-- `eslint`
 - `eslint-config-prettier`
 - `eslint-plugin-prettier`
 - `prettier`
