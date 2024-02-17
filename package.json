@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-nestjs",
-  "version": "0.7.4",
+  "version": "0.8.0",
   "description": "Nestjs's ESLint config preset",
   "main": "index.js",
   "license": "ISC",
